@@ -1,6 +1,4 @@
-import time
 import asyncio
-from threading import Thread
 from pyrogram import Client
 from datetime import datetime, timedelta
 
